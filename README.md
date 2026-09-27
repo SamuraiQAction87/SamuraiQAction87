@@ -82,7 +82,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
 
 <details>
 <summary>               
- <a>Expandir documento</a>
+ <a>CLIQUE AQUI para Expandir o documento!!!</a>
 </summary>
 <a name="Expandir documento"></a>
  
@@ -164,7 +164,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
 
 <details>
 <summary>               
- <a>Expandir documento</a>
+ <a>CLIQUE AQUI para Expandir o documento!!!</a>
 </summary>
 <a name="Expandir documento"></a>
  
@@ -178,7 +178,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
 
 <details>
 <summary>               
- <a>Expandir documento</a>
+ <a>CLIQUE AQUI para Expandir o documento!!!</a>
 </summary>
 <a name="Expandir documento"></a>
  
@@ -193,7 +193,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
 
 <details>
 <summary>               
- <a>Expandir documento</a>
+ <a>CLIQUE AQUI para Expandir o documento!!!</a>
 </summary>
 <a name="Expandir documento"></a>
  
@@ -212,7 +212,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
 
 <details>
 <summary>               
- <a>Expandir documento</a>
+ <a>CLIQUE AQUI para Expandir o documento!!!</a>
 </summary>
 <a name="Expandir documento"></a>
  
@@ -227,7 +227,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
 
 <details>
 <summary>               
- <a>Expandir documento</a>
+ <a>CLIQUE AQUI para Expandir o documento!!!</a>
 </summary>
 <a name="Expandir documento"></a>
  
@@ -247,7 +247,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
 
 <details>
 <summary>               
- <a>Expandir documento</a>
+ <a>CLIQUE AQUI para Expandir o documento!!!</a>
 </summary>
 <a name="Expandir documento"></a>
  
@@ -270,7 +270,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
 
 <details>
 <summary>               
- <a>Expandir documento</a>
+ <a>CLIQUE AQUI para Expandir o documento!!!</a>
 </summary>
 <a name="Expandir documento"></a>
  
@@ -341,7 +341,7 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza√
 ## An√°lise de Requisitos de Software com Hist√≥rias de Usu√°rio
 <details>
 <summary>               
- <a>Expandir documento</a>
+ <a>CLIQUE AQUI para Expandir o documento!!!</a>
 </summary>
 <a name="Expandir documento"></a>
  
@@ -395,7 +395,7 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza√
 ## Modelo de Qualidade de Software ‚Äî ISO 25010
 <details>
 <summary>               
- <a>Expandir documento</a>
+ <a>CLIQUE AQUI para Expandir o documento!!!</a>
 </summary>
 <a name="Expandir documento"></a>
  
@@ -413,7 +413,7 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza√
 ## CTFL (ISTQB/BSTQB) v4.0
 <details>
 <summary>               
- <a>Expandir documento</a>
+ <a>CLIQUE AQUI para Expandir o documento!!!</a>
 </summary>
 <a name="Expandir documento"></a>
  
@@ -434,7 +434,7 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza√
 
 <details>
 <summary>               
- <a>Expandir documento</a>
+ <a>CLIQUE AQUI para Expandir o documento!!!</a>
 </summary>
 <a name="Expandir documento"></a>
  
@@ -478,7 +478,7 @@ Veremos os seguintes temas:
 
 <details>
 <summary>               
- <a>Expandir documento</a>
+ <a>CLIQUE AQUI para Expandir o documento!!!</a>
 </summary>
 <a name="Expandir documento"></a>
  
@@ -508,7 +508,7 @@ Veremos os seguintes temas:
 
 <details>
 <summary>               
- <a>Expandir documento</a>
+ <a>CLIQUE AQUI para Expandir o documento!!!</a>
 </summary>
 <a name="Expandir documento"></a>
  
@@ -528,7 +528,7 @@ Veremos os seguintes temas:
 
 <details>
 <summary>               
- <a>Expandir documento</a>
+ <a>CLIQUE AQUI para Expandir o documento!!!</a>
 </summary>
 <a name="Expandir documento"></a>
  
@@ -554,7 +554,7 @@ Veremos os seguintes temas:
 
 <details>
 <summary>               
- <a>Expandir documento</a>
+ <a>CLIQUE AQUI para Expandir o documento!!!</a>
 </summary>
 <a name="Expandir documento"></a>
  
@@ -581,7 +581,7 @@ Veremos os seguintes temas:
 
 <details>
 <summary>               
- <a>Expandir documento</a>
+ <a>CLIQUE AQUI para Expandir o documento!!!</a>
 </summary>
 <a name="Expandir documento"></a>
  
@@ -615,7 +615,7 @@ Veremos os seguintes temas:
 
 <details>
 <summary>               
- <a>Expandir documento</a>
+ <a>CLIQUE AQUI para Expandir o documento!!!</a>
 </summary>
 <a name="Expandir documento"></a>
  
@@ -651,7 +651,7 @@ Veremos os seguintes temas:
 
 <details>
 <summary>               
- <a>Expandir documento</a>
+ <a>CLIQUE AQUI para Expandir o documento!!!</a>
 </summary>
 <a name="Expandir documento"></a>
  
@@ -679,7 +679,7 @@ Veremos os seguintes temas:
 
 <details>
 <summary>               
- <a>Expandir documento</a>
+ <a>CLIQUE AQUI para Expandir o documento!!!</a>
 </summary>
 <a name="Expandir documento"></a>
  
@@ -706,7 +706,7 @@ Veremos os seguintes temas:
 
 <details>
 <summary>               
- <a>Expandir documento</a>
+ <a>CLIQUE AQUI para Expandir o documento!!!</a>
 </summary>
 <a name="Expandir documento"></a>
  
@@ -734,7 +734,7 @@ Veremos os seguintes temas:
 
 <details>
 <summary>               
- <a>Expandir documento</a>
+ <a>CLIQUE AQUI para Expandir o documento!!!</a>
 </summary>
 <a name="Expandir documento"></a>
 
