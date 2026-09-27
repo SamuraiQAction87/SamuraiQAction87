@@ -50,7 +50,7 @@ Aqui estão as áreas em que estou focado e que você pode encontrar aplicadas n
 
  - Testes em API: **REST-Assured / Postman**.
 
- - Linguagens de Programação/Script: **Java**, Python, JavaScript, HTML/CSS.
+ - Linguagens de Programação: **Java**, Python, JavaScript, HTML/CSS.
 
 ### 3. Ferramentas, Infraestrutura
    - **Controle de Versão | CI | Testes Contínuos:**	Git / GitHub / GitHub Actions
