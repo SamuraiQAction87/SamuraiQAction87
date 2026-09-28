@@ -182,7 +182,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
 </summary>
 <a name="Expandir documento"></a>
  
-- [**Projeto_03:**](https://github.com/QActions87/JAVA-SELENIUM-POM) 3º projeto de automação de testes de interface do usuário (UI), desenvolvido com **Java, Selenium 3 e JUnit 4**. Desta vez usei o **WebDriver 4**, o que torna desnecessário baixar o driver do navegador cliente. Além disso, a ideia deste projeto é focar no padrão **Page Object Model**.
+
 
 </details>
 
@@ -234,6 +234,8 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
 - [**Projeto_01:**](https://github.com/QActions87/java-selenium-automation/tree/main) 1º projeto de automação de testes de interface do usuário (UI), desenvolvido com **Java, Selenium 3 e JUnit 4**.
 
 - [**Projeto_02:**](https://github.com/QActions87/java-selenium-automation/blob/main/selenium-automacao/src/test/java/cadastro.md) 2º Projeto de automação de testes funcionais de interface do usuário (UI) desenvolvido para a tela de Controle de Produtos do sistema web. O projeto utiliza **Java, Selenium WebDriver, JUnit 4** e os padrões de projeto Page Object Model (**POM**), **Page Factory** e **Test Data Builder**.
+
+- [**Projeto_03:**](https://github.com/QActions87/JAVA-SELENIUM-POM) 3º projeto de automação de testes de interface do usuário (UI), desenvolvido com **Java, Selenium 3 e JUnit 4**. Desta vez usei o **WebDriver 4**, o que torna desnecessário baixar o driver do navegador cliente. Além disso, a ideia deste projeto é focar no padrão **Page Object Model**.
 
 </details>
 
