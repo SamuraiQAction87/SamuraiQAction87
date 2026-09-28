@@ -738,6 +738,8 @@ Veremos os seguintes temas:
 </summary>
 <a name="Expandir documento"></a>
 
+- [**Page object model com Java e Selenium webdriver (Avançado)**](https://www.udemy.com/certificate/UC-aec8d992-bf4e-44c6-a20e-72b0fc107e04/)
+
 - [**Automação de Testes de API com Java e RestAssured**](https://www.udemy.com/certificate/UC-3f682d32-2348-4715-a9b1-db06f5192367/)
  
 - [**Testes Automatizados** - Curso completo com **Selenium e Java**](https://www.udemy.com/certificate/UC-35d388f6-fad2-46be-ab8e-7a0b8a478041/)
