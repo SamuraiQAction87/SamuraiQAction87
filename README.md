@@ -9,12 +9,12 @@
 [🔍**ISO-25010**](#modelo-de-qualidade-de-software--iso-25010)
 [🔍**CTFL**](#ctfl-istqbbstqb-v40)
 [🔍**Meus Artigos QA**](#-documentação-do-meu-aprendizado-%E2%80%8D)
-[🔍**Mais Programação, API, GCP e AWS**](#mais-programação)
+[🔍**Mais Programação, API, GCP & AWS**](#mais-programação)
 [🔍**Linux**](#linux-e-aws)
 [🔍**Git/GitHub**](#gitgithub)
 [🔍**SQL**](#sql-no-bigquery-gcp-google-cloud-plataform)
 [🔍**Redes** & **monitoramento**](#redes-e-monitoramento-zabbix)
-[🔍**Cursos Realizados** e **Certificados**](#-principais-cursos-que-realizei-certificados)
+[🔍**Cursos Realizados** & **Certificados**](#-principais-cursos-que-realizei-certificados)
 [🔍**Contato**](#portfólio-e-contato-profissional)
 
 #
