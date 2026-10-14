@@ -416,7 +416,7 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza�
 #### [↩️](#-menu)
 #
 #
-# Mais Programação:
+# Mais Programação & Infra:
 ## JavaScript, DOM, HTML, CSS, Gherkin e BDD:
 ![JavaScript12](https://api.devicons.dev.br/icon?icons=JavaScript%2CHTML%2CCSS&size=48&theme=light&perline=30)
 
