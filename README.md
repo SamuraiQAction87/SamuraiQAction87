@@ -764,7 +764,7 @@ Veremos os seguintes temas:
 
 - [Intensivo de **Inglês**](https://drive.google.com/file/d/1La43aoS2XRsUdIrvL7MHnelhE6phsvIi/view)
 
-- [**Lógica de Programação e Orientação a Objetos**](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0140777e-f3e8-43f7-8ff3-904418de4909.pdf)
+- [**Python: Lógica de Programação e Orientação a Objetos**](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0140777e-f3e8-43f7-8ff3-904418de4909.pdf)
 
 - [Curso **Analista de testes - QA**](https://www.youtube.com/watch?v=XB6tZB3wX4M&list=PLQ3tGxEilbe4xOBBhnBr7-TQgp4U0Js9D)
 
