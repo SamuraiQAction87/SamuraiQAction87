@@ -529,7 +529,9 @@ Veremos os seguintes temas:
 - [API_4: Extração de dados de uma API com Postman e Python](https://medium.com/@atom.free/api-4-extra%C3%A7%C3%A3o-de-dados-de-uma-api-com-postman-python-com-%C3%A0s-bibliotecas-requests-e-json-curl-e-a74f7507ebc0)
 
 - [API_5: Extração de dados de uma API com Postman e Python](https://medium.com/@atom.free/api-5-extra%C3%A7%C3%A3o-de-dados-de-uma-api-com-postman-python-com-%C3%A0s-bibliotecas-requests-e-json-curl-e-85be59d02b45)
+  
   - [Código: pokeApi.py.](https://github.com/SamuraiQAction87/API_Pokemon/blob/main/pokemon.py)
+    
 </details>
 
 #
@@ -546,16 +548,38 @@ Veremos os seguintes temas:
 </summary>
 <a name="Expandir documento"></a>
  
-- [Python-AWS: AWS Lambda com Python e Serverless Framework.](https://medium.com/@atom.free/python-aws-1-aws-lambda-com-python-e-serverless-framework-f505e8b94976)
+- [**Python-AWS**: **AWS Lambda** com Python e **Serverless Framework***.](https://medium.com/@atom.free/python-aws-1-aws-lambda-com-python-e-serverless-framework-f505e8b94976)
 
-- [Python e Boto3_1: Criação de uma tabela DynamoDB na AWS](https://medium.com/@atom.free/pytho-e-boto3-na-cria%C3%A7%C3%A3o-de-uma-tabela-dynamodb-na-aws-513974b7912e)
+- [Python e Boto3_1: Criação de uma **tabela DynamoDB na AWS**](https://medium.com/@atom.free/pytho-e-boto3-na-cria%C3%A7%C3%A3o-de-uma-tabela-dynamodb-na-aws-513974b7912e)
 
-- [Python e Boto3_2: Descrição de uma instância EC2 na AWS.](https://medium.com/@atom.free/pytho-e-boto3-2-descri%C3%A7%C3%A3o-de-uma-inst%C3%A2ncia-ec2-na-aws-a7c6eff2167b)
+- [Python e Boto3_2: Descrição de uma **instância EC2 na AWS**.](https://medium.com/@atom.free/pytho-e-boto3-2-descri%C3%A7%C3%A3o-de-uma-inst%C3%A2ncia-ec2-na-aws-a7c6eff2167b)
 
-- [Python e Boto3_3: Listagem de buckets s3 na AWS.](https://medium.com/@atom.free/pytho-e-boto3-3-listagem-de-buckets-s3-na-aws-fdac241f93c5)
+- [Python e Boto3_3: Listagem de **buckets s3 na AWS**.](https://medium.com/@atom.free/pytho-e-boto3-3-listagem-de-buckets-s3-na-aws-fdac241f93c5)
   
-- [Python e Boto3_4: Listagem de tabelas do DynamoDB na AWS.](https://medium.com/@atom.free/pytho-e-boto3-4-listagem-de-tabelas-do-dynamodb-na-aws-f6a74c812bcb)
+- [Python e Boto3_4: Listagem de tabelas do **DynamoDB na AWS**.](https://medium.com/@atom.free/pytho-e-boto3-4-listagem-de-tabelas-do-dynamodb-na-aws-f6a74c812bcb)
 
+  - [Código: calcula_bioimpedancia](https://github.com/SamuraiQAction87/calcula_bioimpedancia/blob/main/funcao-parametrizada10.py)
+ 
+  - [Código: **terraform-aws-bucket-s3**/main.tf](https://github.com/SamuraiQAction87/terraform-aws-bucket-s3/blob/main/main.tf)
+ 
+  - [Código: **terraform-aws-bucket-s3**/bucket.tf](https://github.com/SamuraiQAction87/terraform-aws-bucket-s3/blob/main/bucket.tf)
+ 
+  - [Código: **funcao_lambda_boto3_paython**/lambda_ligar_desligar_instancia.py](https://github.com/SamuraiQAction87/funcao_lambda_boto3_paython/blob/main/lambda_ligar_desligar_instancia.py)
+ 
+  - [Código: envio-email-**serverless-aws-boto3**/handler.py](https://github.com/SamuraiQAction87/envio-email-serverless-aws-boto3/blob/main/handler.py)
+ 
+  - [Código: create_**ec2/create_bucket**_s3.py](https://github.com/SamuraiQAction87/create_ec2/blob/main/create_bucket_s3.py)
+ 
+  - [Código: create_**ec2/create_ec2**.py](https://github.com/SamuraiQAction87/create_ec2/blob/main/create_ec2.py)
+ 
+  - [Código: **aws**_create_**bucket_s3**.py](https://github.com/SamuraiQAction87/aws_create_bucket_s3/blob/main/aws_create_bucket_s3.py)
+ 
+  - [Código: **aws**_create_table_**dynamobd_boto3**_python/aws_create_dynamodb_table.py](https://github.com/SamuraiQAction87/aws_create_table_dynamobd_boto3_python/blob/main/aws_create_dynamodb_table.py)
+ 
+  - [Código: describe_**instance_ec2**.py](https://github.com/SamuraiQAction87/describe_instance_ec2/blob/main/describe_instance_ec2.py)
+ 
+  - [Código: list_**bucket_s3**.py](https://github.com/SamuraiQAction87/list_bucket_s3/blob/main/list_bucket_s3.py)
+ 
 </details>
 
 #
@@ -626,6 +650,8 @@ Veremos os seguintes temas:
 - [Linux-8: Executando tarefas administrativas com usuário root.](https://medium.com/@atom.free/linux-8-executando-tarefas-administrativas-com-usu%C3%A1rio-root-b52cd87b417a)
 
 - [Linux-9: Liberando acesso remoto root.](https://medium.com/@atom.free/liberando-acesso-remoto-do-usu%C3%A1rio-root-a3be7681796b)
+
+  - [Código: **script-iac.sh**](https://github.com/SamuraiQAction87/linux-projeto2-iac/blob/main/script-iac.sh)
 
 </details>
 
