@@ -244,7 +244,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
 #### [↩️](#-menu)
 #
 #
-## Testando APIs Rest com Postman:
+## Testando APIs Rest com Postman (Projetos):
 ![JavaScript12304](https://api.devicons.dev.br/icon?icons=Linux%2CPostman%2CJavaScript%2CGithub%2CGithubActions&size=48&theme=light&perline=30)
 
 <details>
