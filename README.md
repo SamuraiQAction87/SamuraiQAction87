@@ -252,7 +252,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
 #### [↩️](#-menu)
 #
 #
-## Testes de Regressão com Testes contínuos de UI em Cypress no GitHub Actions
+## Testes contínuos de UI em Cypress no GitHub Actions
 
 ![GitHubActions](https://api.devicons.dev.br/icon?icons=Linux%2CGit%2CGithub%2CGithubActions%2CCypress&size=48&theme=light&perline=30)
 
