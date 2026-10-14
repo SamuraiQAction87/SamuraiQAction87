@@ -529,7 +529,7 @@ Veremos os seguintes temas:
 - [API_4: Extração de dados de uma API com Postman e Python](https://medium.com/@atom.free/api-4-extra%C3%A7%C3%A3o-de-dados-de-uma-api-com-postman-python-com-%C3%A0s-bibliotecas-requests-e-json-curl-e-a74f7507ebc0)
 
 - [API_5: Extração de dados de uma API com Postman e Python](https://medium.com/@atom.free/api-5-extra%C3%A7%C3%A3o-de-dados-de-uma-api-com-postman-python-com-%C3%A0s-bibliotecas-requests-e-json-curl-e-85be59d02b45)
-
+  - [Código: pokeApi.py.](https://github.com/SamuraiQAction87/API_Pokemon/blob/main/pokemon.py)
 </details>
 
 #
