@@ -29,7 +29,7 @@ Sou um apaixonado por tecnologia, **autodidata** e profissional QA Engineer em c
 
 Apesar de ter começado a publicar meu aprendizado apenas em 2024, comecei a estudar tecnologia bem antes de 2020. Alias, já havia tentado aprender **Linux, redes** e **Java** pela 1ª vez em 2017. Mas, percebi que eu teria que aprender muita coisa antes - e eis que entrei pela toca do coelho. 
 
-Levei um tempo até entender em qual área da tecnologia eu me encaixo melhor. Contudo, hoje tenho clareza do que quero. Meu objetivo é **garantir a qualidade e prevenir defeitos o mais cedo possível** no Software Development Life Cycle **(SDLC)**, trabalhando de forma ativa e estrategicamente com o time e o PO desde de o Product Backlog em times ágeis (Scrum).
+Levei um tempo até entender em qual área da tecnologia eu me encaixo melhor. Contudo, hoje tenho clareza do que quero: **garantir a qualidade e prevenir defeitos o mais cedo possível** no Software Development Life Cycle **(SDLC)**, trabalhando de forma ativa e estrategicamente com o time e o PO desde de o Product Backlog em times ágeis (Scrum).
 
 #
 #
