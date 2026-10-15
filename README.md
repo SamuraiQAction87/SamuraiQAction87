@@ -275,12 +275,12 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
 #### [↩️](#-menu)
 #
 #
-## Automação de teste Web (UI) Com Cypress, JavaScript e Cucumber (gherkin):
+## Automação de teste Web (UI) Com Cypress, JavaScript & Cucumber (gherkin):
 ![JavaScript11](https://api.devicons.dev.br/icon?icons=Linux%2CCypress%2CJavaScript%2CGherkin&size=48&theme=light&perline=30)
 
   - [Fundamentos](https://github.com/Motatom0101/Automacao-Web-Cypress-Cucumber): Aqui, teremos artigos escritos no Medium, onde documentei boa parte desta jornada com introdução ao **node.js, nvm, npm, npx**, fundamentos do **Cypress**, **arrows function**, criação de **classes e instanciação de Objetos em JS**, Page Objetc Model (**POM**), **BDD** com **JavaScript**, **Gherking** com **Cucumber**, além dos códigos documentados nos artigos...
 
- - [Repositório Projeto](https://github.com/Motatom0101/Projeto-Automacao-Web-Cypress1): Neste repositório estou desenvolvendo um projeto de **automação de teste e2e WEB com Cypress e JavaScript**, com base no **curso 'Automação Web - Cypress e Cucumber'**.
+ - [Repositório Projeto](https://github.com/Motatom0101/Projeto-Automacao-Web-Cypress1): Neste repositório estou desenvolvendo um projeto de **automação de teste e2e WEB com Cypress e JavaScript**, com base no **curso 'Automação Web - Cypress & Cucumber'**.
 
 
 #
@@ -316,7 +316,7 @@ Além disso, documentei todo o passo a passo em artigos no Medium. Toda a docume
 #### [↩️](#-menu)
 #
 #
-## Abertura, Gerenciamento e Rastreio de Bugs:
+## Abertura, Gerenciamento && Rastreio de Bugs:
  - [Bug Tracking](https://github.com/Motatom0101/Gerenciamento-de-Bugs-): Projento de abertura e gerencimento de bugs, baseado no modulo "Bug Tracking" do curso "Teste de Software Manual: Do Planejamento à Execução" da Qualiters Club.
  
 Veremos como abrir bugs usando uma planilha template de gerenciamento, organização das evidências tanto em prints quanto em vídeos para garantir rastreabilidade. Também teremos uma planilha de plano de testes com as suitese seus casos de testes, credenciais e pre-requisitos, além da documentação deste processo em artigos no medium.
@@ -348,7 +348,7 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza�
 #### [↩️](#-menu)
 #
 #
-## Épicos, Histórias de Usuário e Tarefas no Scrum:
+## Épicos, Histórias de Usuário && Tarefas no Scrum:
  -  1º Artigo - [O que é uma História de Usuário?](https://medium.com/@atom.free/o-que-%C3%A9-uma-hist%C3%B3ria-de-usu%C3%A1rio-7769c34df8af):Esse artigo propõe ensinar a elaborar, levantar, planejar requisitos ágeis de forma eficaz em projetos Scrum com User Story.
 #
  -  2º Artigo - [Modelo 3C e Personas em User story](https://medium.com/@atom.free/modelo-3c-e-personas-em-user-story-1ea226225b49): Neste artigo vamos falar um pouco sobre o Modelo 3C, que é uma estrutura simples e eficaz, usada para criar e avaliar User Stories no contexto do Scrum. Além disso, vamos falar sobre o uso de “Personas” e do “Mapa de Empatia”.
@@ -417,7 +417,7 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza�
 #### [↩️](#-menu)
 #
 #
-# Mais Programação & Infra:
+# Mais Programação && Infra:
 ## JavaScript, DOM, HTML, CSS, Gherkin e BDD:
 ![JavaScript12](https://api.devicons.dev.br/icon?icons=JavaScript%2CHTML%2CCSS&size=48&theme=light&perline=30)
 
@@ -458,7 +458,7 @@ Veremos os seguintes temas:
 #### [↩️](#-menu)
 #
 #
-## Python - Lógica de Programação & POO:
+## Python - Lógica de Programação && POO:
 
 ![JavaScript14](https://api.devicons.dev.br/icon?icons=Linux%2CPython&size=48&theme=light&perline=30)
 
@@ -486,7 +486,7 @@ Veremos os seguintes temas:
 
 #
 #
-## Python & Selenium:
+## Python && Selenium:
 ![JavaScript15](https://api.devicons.dev.br/icon?icons=Python%2CSelenium&size=48&theme=dark&perline=30)
 
 <details>
@@ -503,7 +503,7 @@ Veremos os seguintes temas:
 
 #
 #
-## Python, Postman e Extração de Dados em API:
+## Python, Postman && Extração de Dados em API:
 ![JavaScript16](https://api.devicons.dev.br/icon?icons=Python%2CPostman&size=48&theme=light&perline=30)
 
 <details>
@@ -528,7 +528,7 @@ Veremos os seguintes temas:
 
 #
 #
-## Python (Boto3) e AWS:
+## Python (Boto3) && AWS:
 ![JavaScript17](https://api.devicons.dev.br/icon?icons=Python%2CAWS&size=48&theme=light&perline=30)
 
 <details>
@@ -573,7 +573,7 @@ Veremos os seguintes temas:
 
 #
 #
-## Linux e AWS: 
+## Linux && AWS: 
 ![JavaScript18](https://api.devicons.dev.br/icon?icons=Linux%2CAWS&size=48&theme=light&perline=30)
 
 <details>
@@ -646,7 +646,7 @@ Veremos os seguintes temas:
 #### [↩️](#-menu)
 #
 #
-## SQL no BigQuery (GCP: Google Cloud Plataform):
+## MySQL && BigQuery (GCP: Google Cloud Plataform):
 ![JavaScript199](https://api.devicons.dev.br/icon?icons=MySQL%2CGCP&size=48&theme=light&perline=30)
 
 <details>
