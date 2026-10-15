@@ -12,7 +12,7 @@
 [🔍**Mais Programação, API & AWS**](#mais-programação--infra)
 [🔍**Linux**](#linux--aws)
 [🔍**Git/GitHub**](#gitgithub)
-[🔍**MySQL & GCP**](#mysql--bigquery-gcp-google-cloud-plataform)
+[🔍**SQL & GCP**](#mysql--bigquery-gcp-google-cloud-plataform)
 [🔍**Redes** & **monitoramento**](#redes-e-monitoramento-zabbix)
 [🔍**Cursos Realizados** & **Certificados**](#-principais-cursos-que-realizei-certificados)
 [🔍**Contato**](#portfólio-e-contato-profissional)
