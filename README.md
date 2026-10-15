@@ -441,9 +441,6 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza�
 
 #
 #
-#### [↩️](#-menu)
-#
-#
 ## JavaScript Puro Completo:
 ![JavaScript13](https://api.devicons.dev.br/icon?icons=Linux%2CJavaScript&size=48&theme=light&perline=30)
 
@@ -489,9 +486,6 @@ Veremos os seguintes temas:
 
 #
 #
-#### [↩️](#-menu)
-#
-#
 ## Python & Selenium:
 ![JavaScript15](https://api.devicons.dev.br/icon?icons=Python%2CSelenium&size=48&theme=dark&perline=30)
 
@@ -507,9 +501,6 @@ Veremos os seguintes temas:
 
 </details>
 
-#
-#
-#### [↩️](#-menu)
 #
 #
 ## Python, Postman e Extração de Dados em API:
@@ -535,9 +526,6 @@ Veremos os seguintes temas:
     
 </details>
 
-#
-#
-#### [↩️](#-menu)
 #
 #
 ## Python (Boto3) e AWS:
@@ -585,44 +573,6 @@ Veremos os seguintes temas:
 
 #
 #
-#### [↩️](#-menu)
-
-#
-#
-## Git/GitHub:
-![JavaScript19](https://api.devicons.dev.br/icon?icons=Git%2CGithub&size=48&theme=light&perline=30)
-
-<details>
-<summary>               
- <a>CLIQUE AQUI!!!</a>
-</summary>
-<a name="Expandir documento"></a>
- 
-- [Git_GitHub-1: Introdução aos estudos em Git e Github Part I — Desbravando o mato da minha ignorância nesta tecnologia](https://medium.com/@atom.free/introdu%C3%A7%C3%A3o-aos-estudos-em-git-e-github-12afe584700f)
-
-- [Git_GitHub-2: Introdução aos estudos em Git e GitHub Part II — a saga continua](https://medium.com/@atom.free/introdu%C3%A7%C3%A3o-aos-estudos-em-git-e-github-part-ii-a-saga-continua-da399dca1962)
-
-- [Git_GitHub-3: Recebendo alterações (pull)](https://medium.com/@atom.free/git-e-github-part-iii-recebendo-altera%C3%A7%C3%B5es-pull-33ece5c49eab)
-  
-- [Git_GitHub-4: Clonando repositório.](https://medium.com/@atom.free/git-github-4-clonando-reposit%C3%B3rio-0343ff17fe7e)
-
-- [Git_GitHub-5: Revertendo arquivos.](https://medium.com/@atom.free/git-github-5-revertendo-arquivos-checkout-f62e7b0ee87d)
-
-- [Git_GitHub-6: Ignorar arquivos com gitignore.](https://medium.com/@atom.free/git-github-6-ignorar-arquivos-com-gitignore-a14e0febd180)
-
-- [Git_GitHub-7: Resetando arquivos da branch.](https://medium.com/@atom.free/git-github-7-resetando-arquivos-da-branch-a455103d8704)
-
-- [Git_GitHub-8: O que são branches?](https://medium.com/@atom.free/git-github-8-o-que-s%C3%A3o-branches-8da078cfd7fd)
-
-- [Git_GitHub-9: Conhecendo stash.](https://medium.com/@atom.free/git-github-9-conhecendo-stash-0208bad1c8e4)
-
-</details>
-
-#
-#
-#### [↩️](#-menu)
-#
-#
 ## Linux e AWS: 
 ![JavaScript18](https://api.devicons.dev.br/icon?icons=Linux%2CAWS&size=48&theme=light&perline=30)
 
@@ -653,6 +603,41 @@ Veremos os seguintes temas:
 - [Linux-9: Liberando acesso remoto root.](https://medium.com/@atom.free/liberando-acesso-remoto-do-usu%C3%A1rio-root-a3be7681796b)
 
   - [Código: **script-iac.sh**](https://github.com/SamuraiQAction87/linux-projeto2-iac/blob/main/script-iac.sh)
+
+</details>
+
+#
+#
+#### [↩️](#-menu)
+
+#
+#
+## Git/GitHub:
+![JavaScript19](https://api.devicons.dev.br/icon?icons=Git%2CGithub&size=48&theme=light&perline=30)
+
+<details>
+<summary>               
+ <a>CLIQUE AQUI!!!</a>
+</summary>
+<a name="Expandir documento"></a>
+ 
+- [Git_GitHub-1: Introdução aos estudos em Git e Github Part I — Desbravando o mato da minha ignorância nesta tecnologia](https://medium.com/@atom.free/introdu%C3%A7%C3%A3o-aos-estudos-em-git-e-github-12afe584700f)
+
+- [Git_GitHub-2: Introdução aos estudos em Git e GitHub Part II — a saga continua](https://medium.com/@atom.free/introdu%C3%A7%C3%A3o-aos-estudos-em-git-e-github-part-ii-a-saga-continua-da399dca1962)
+
+- [Git_GitHub-3: Recebendo alterações (pull)](https://medium.com/@atom.free/git-e-github-part-iii-recebendo-altera%C3%A7%C3%B5es-pull-33ece5c49eab)
+  
+- [Git_GitHub-4: Clonando repositório.](https://medium.com/@atom.free/git-github-4-clonando-reposit%C3%B3rio-0343ff17fe7e)
+
+- [Git_GitHub-5: Revertendo arquivos.](https://medium.com/@atom.free/git-github-5-revertendo-arquivos-checkout-f62e7b0ee87d)
+
+- [Git_GitHub-6: Ignorar arquivos com gitignore.](https://medium.com/@atom.free/git-github-6-ignorar-arquivos-com-gitignore-a14e0febd180)
+
+- [Git_GitHub-7: Resetando arquivos da branch.](https://medium.com/@atom.free/git-github-7-resetando-arquivos-da-branch-a455103d8704)
+
+- [Git_GitHub-8: O que são branches?](https://medium.com/@atom.free/git-github-8-o-que-s%C3%A3o-branches-8da078cfd7fd)
+
+- [Git_GitHub-9: Conhecendo stash.](https://medium.com/@atom.free/git-github-9-conhecendo-stash-0208bad1c8e4)
 
 </details>
 
