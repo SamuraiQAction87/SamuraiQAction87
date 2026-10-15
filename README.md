@@ -208,28 +208,6 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
 
 #
 #
-## Java com Selenium - Teste de UI (Projetos):
-![Java](https://api.devicons.dev.br/icon?icons=Linux%2CIdea%2CJava%2CSelenium%2CMaven&size=48&theme=dark&perline=30)
-
-<details>
-<summary>               
- <a>CLIQUE AQUI!!!</a>
-</summary>
-<a name="Expandir documento"></a>
- 
-- [**Projeto_01:**](https://github.com/QActions87/java-selenium-automation/tree/main) 1º projeto de automação de testes de interface do usuário (UI), desenvolvido com **Java, Selenium 3 e JUnit 4**.
-
-- [**Projeto_02:**](https://github.com/QActions87/java-selenium-automation/blob/main/selenium-automacao/src/test/java/cadastro.md) 2º Projeto de automação de testes funcionais de interface do usuário (UI) desenvolvido para a tela de Controle de Produtos do sistema web. O projeto utiliza **Java, Selenium WebDriver, JUnit 4** e os padrões de projeto Page Object Model (**POM**), **Page Factory** e **Test Data Builder**.
-
-- [**Projeto_03:**](https://github.com/QActions87/JAVA-SELENIUM-POM) 3º projeto de automação de testes de interface do usuário (UI), desenvolvido com **Java, Selenium 3 e JUnit 4**. Desta vez usei o **WebDriver 4**, o que torna desnecessário baixar o driver do navegador cliente. Além disso, a ideia deste projeto é focar no padrão **Page Object Model**.
-
-</details>
-
-#
-#
-#### [↩️](#-menu)
-#
-#
 ## Testando APIs Rest com Postman (Projetos):
 ![JavaScript12304](https://api.devicons.dev.br/icon?icons=Linux%2CPostman%2CJavaScript%2CGithub%2CGithubActions&size=48&theme=light&perline=30)
 
@@ -252,6 +230,29 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
 #### [↩️](#-menu)
 #
 #
+## Java com Selenium - Teste de UI (Projetos):
+![Java](https://api.devicons.dev.br/icon?icons=Linux%2CIdea%2CJava%2CSelenium%2CMaven&size=48&theme=dark&perline=30)
+
+<details>
+<summary>               
+ <a>CLIQUE AQUI!!!</a>
+</summary>
+<a name="Expandir documento"></a>
+ 
+- [**Projeto_01:**](https://github.com/QActions87/java-selenium-automation/tree/main) 1º projeto de automação de testes de interface do usuário (UI), desenvolvido com **Java, Selenium 3 e JUnit 4**.
+
+- [**Projeto_02:**](https://github.com/QActions87/java-selenium-automation/blob/main/selenium-automacao/src/test/java/cadastro.md) 2º Projeto de automação de testes funcionais de interface do usuário (UI) desenvolvido para a tela de Controle de Produtos do sistema web. O projeto utiliza **Java, Selenium WebDriver, JUnit 4** e os padrões de projeto Page Object Model (**POM**), **Page Factory** e **Test Data Builder**.
+
+- [**Projeto_03:**](https://github.com/QActions87/JAVA-SELENIUM-POM) 3º projeto de automação de testes de interface do usuário (UI), desenvolvido com **Java, Selenium 3 e JUnit 4**. Desta vez usei o **WebDriver 4**, o que torna desnecessário baixar o driver do navegador cliente. Além disso, a ideia deste projeto é focar no padrão **Page Object Model**.
+
+</details>
+
+#
+#
+#### [↩️](#-menu)
+#
+#
+
 ## Testes contínuos de UI em Cypress no GitHub Actions
 
 ![GitHubActions](https://api.devicons.dev.br/icon?icons=Linux%2CGit%2CGithub%2CGithubActions%2CCypress&size=48&theme=light&perline=30)
@@ -511,7 +512,7 @@ Veremos os seguintes temas:
 #### [↩️](#-menu)
 #
 #
-## Python, Postman e API:
+## Python, Postman e Extração de Dados em API:
 ![JavaScript16](https://api.devicons.dev.br/icon?icons=Python%2CPostman&size=48&theme=light&perline=30)
 
 <details>
@@ -539,7 +540,7 @@ Veremos os seguintes temas:
 #### [↩️](#-menu)
 #
 #
-## Python e AWS:
+## Python (Boto3) e AWS:
 ![JavaScript17](https://api.devicons.dev.br/icon?icons=Python%2CAWS&size=48&theme=light&perline=30)
 
 <details>
