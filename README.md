@@ -9,10 +9,10 @@
 [🔍**ISO-25010**](#modelo-de-qualidade-de-software--iso-25010)
 [🔍**CTFL**](#ctfl-istqbbstqb-v40)
 [🔍**Meus Artigos QA**](#-documentação-do-meu-aprendizado-%E2%80%8D)
-[🔍**Mais Programação, API & AWS**](#mais-programação)
-[🔍**Linux**](#linux-e-aws)
+[🔍**Mais Programação, API & AWS**](#mais-programação--infra)
+[🔍**Linux**](#linux--aws)
 [🔍**Git/GitHub**](#gitgithub)
-[🔍**SQL & GCP**](#sql-no-bigquery-gcp-google-cloud-plataform)
+[🔍**SQL & GCP**](#mysql--bigquery-gcp-google-cloud-plataform)
 [🔍**Redes** & **monitoramento**](#redes-e-monitoramento-zabbix)
 [🔍**Cursos Realizados** & **Certificados**](#-principais-cursos-que-realizei-certificados)
 [🔍**Contato**](#portfólio-e-contato-profissional)
@@ -417,6 +417,7 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza�
 #### [↩️](#-menu)
 #
 #
+
 # Mais Programação && Infra:
 ## JavaScript, DOM, HTML, CSS, Gherkin e BDD:
 ![JavaScript12](https://api.devicons.dev.br/icon?icons=JavaScript%2CHTML%2CCSS&size=48&theme=light&perline=30)
