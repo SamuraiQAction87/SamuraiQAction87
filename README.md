@@ -275,7 +275,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
 #### [↩️](#-menu)
 #
 #
-## Automação de teste Web (UI) Com Cypress, JavaScript & Cucumber (gherkin):
+## Automação de teste Web (UI) Com Cypress, JavaScript && Cucumber (gherkin):
 ![JavaScript11](https://api.devicons.dev.br/icon?icons=Linux%2CCypress%2CJavaScript%2CGherkin&size=48&theme=light&perline=30)
 
   - [Fundamentos](https://github.com/Motatom0101/Automacao-Web-Cypress-Cucumber): Aqui, teremos artigos escritos no Medium, onde documentei boa parte desta jornada com introdução ao **node.js, nvm, npm, npx**, fundamentos do **Cypress**, **arrows function**, criação de **classes e instanciação de Objetos em JS**, Page Objetc Model (**POM**), **BDD** com **JavaScript**, **Gherking** com **Cucumber**, além dos códigos documentados nos artigos...
