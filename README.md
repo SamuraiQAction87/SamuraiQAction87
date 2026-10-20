@@ -160,7 +160,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
 #
 # Estudando Atualmente:
 ## Java: 
-![Java777](https://api.devicons.dev.br/icon?icons=Linux%2CJava&size=48&theme=light&perline=30)
+![Java777](https://api.devicons.dev.br/icon?icons=Linux%2CJava%2CPostgreSQL&size=48&theme=light&perline=30)
 
 <details>
 <summary>               
@@ -168,7 +168,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
 </summary>
 <a name="Expandir documento"></a>
  
-- [**Repositório:**](https://github.com/Motatom0101/curso-desenvolvimento-java)  Este repositório hospeda e registra minha evolução na linguagem Java e consolidação dos fundamentos da programação.
+- [**Repositório:**](https://github.com/SamuraiQAction87/desenvolvimento-java-postgresql)  Programação em Java integrada ao PostgreSQL por meio de conexão JDBC.
 
 </details>
 
@@ -419,6 +419,21 @@ Veremos como abrir bugs usando uma planilha template de gerenciamento, organiza�
 #
 
 # Mais Programação && Infra:
+## Java: 
+![Java777](https://api.devicons.dev.br/icon?icons=Linux%2CJava&size=48&theme=light&perline=30)
+
+<details>
+<summary>               
+ <a>CLIQUE AQUI!!!</a>
+</summary>
+<a name="Expandir documento"></a>
+ 
+- [**Repositório:**](https://github.com/Motatom0101/curso-desenvolvimento-java)  Este repositório hospeda e registra minha evolução na linguagem Java e consolidação dos fundamentos da programação.
+
+</details>
+
+#
+#
 ## JavaScript, DOM, HTML, CSS, Gherkin e BDD:
 ![JavaScript12](https://api.devicons.dev.br/icon?icons=JavaScript%2CHTML%2CCSS&size=48&theme=light&perline=30)
 
