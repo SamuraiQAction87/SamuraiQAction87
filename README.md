@@ -159,7 +159,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
 #
 #
 # Estudando Atualmente:
-## Java: 
+## Java && PostgreSQL: 
 ![Java777](https://api.devicons.dev.br/icon?icons=Linux%2CJava%2CPostgreSQL&size=48&theme=light&perline=30)
 
 <details>
