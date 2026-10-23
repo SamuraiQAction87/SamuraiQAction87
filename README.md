@@ -193,7 +193,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
 #
 # Projetos:
 #
-## Java com REST Assured - Teste de API (Projetos):
+## Java com REST Assured - Automatizando Teste de API (Projetos):
 ![Java](https://api.devicons.dev.br/icon?icons=Linux%2CIdea%2CJava%2CMaven&size=48&theme=dark&perline=30)
 
 <details>
