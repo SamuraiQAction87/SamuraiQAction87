@@ -193,6 +193,21 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
 #
 # Projetos:
 #
+## Docker com Linux Para QA (Projetos):
+![Docker-Linux](https://api.devicons.dev.br/icon?icons=Linux%2CDocker%2CVIM%2CVSCode&size=48&theme=dark&perline=30)
+
+<details>
+<summary>               
+ <a>CLIQUE AQUI!!!</a>
+</summary>
+<a name="Expandir documento"></a>
+ 
+- [**Projeto_01:**](https://github.com/SamuraiQAction87/docker-for-qa/tree/main) Este repositório contém os arquivos e instruções práticas desenvolvidos durante o treinamento de **Docker com Linux** focado em Quality Assurance. O objetivo do projeto é demonstrar como empacotar uma aplicação web (Parodify) utilizando o Nginx, abordando desde a criação de imagens customizadas via Dockerfile até o mapeamento seguro de volumes e portas em ambiente Linux..
+
+</details>
+
+#
+#
 ## Java com REST Assured - Automatizando Teste de API (Projetos):
 ![Java](https://api.devicons.dev.br/icon?icons=Linux%2CIdea%2CJava%2CMaven&size=48&theme=dark&perline=30)
 
