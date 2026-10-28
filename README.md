@@ -20,7 +20,7 @@
 #
 #
 ### 🛠 Principais Ferramentas com as quais Trabalhei 🛠:
-[![Skills](https://api.devicons.dev.br/icon?icons=Linux%2CUbuntu%2CGit%2CGithub%2CGithubActions%2CVSCode%2CEclipse%2CIdea%2CMaven%2CSelenium%2CJava%2CPython%2CJavaScript%2CHTML%2CCSS%2CPostgreSQL%2CMySQL%2CPostman%2CCypress%2CGherkin%2CGCP%2CAWS&size=48&theme=light&perline=30)](https://devicons.dev.br/)
+[![Skills](https://api.devicons.dev.br/icon?icons=Linux%2CUbuntu%2CDocker%2CGit%2CGithub%2CGithubActions%2CVSCode%2CEclipse%2CIdea%2CMaven%2CSelenium%2CJava%2CPython%2CJavaScript%2CHTML%2CCSS%2CPostgreSQL%2CMySQL%2CPostman%2CCypress%2CGherkin%2CGCP%2CAWS&size=48&theme=light&perline=30)](https://devicons.dev.br/)
 
 #
 
