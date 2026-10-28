@@ -736,7 +736,7 @@ Veremos os seguintes temas:
 #
 #
 ## Redes e Monitoramento (Zabbix):
-
+![Zabbix](https://api.devicons.dev.br/icon?icons=Linux%2CUbuntu%2CZabbix&size=48&theme=dark&perline=30)
 <details>
 <summary>               
  <a>CLIQUE AQUI!!!</a>
