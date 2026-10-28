@@ -1,7 +1,7 @@
 #
 # 🧑‍💻 Olá! Sou o Tiago. 👋
 #
-##### **Obs.:** Caso algum Icon ou link, como os que estão logo abaixo, esteja quebrado, basta pressionar F5 para atualizar a página, de modo a ter uma melhor experiência do usuário. Grato pela compreensão.
+##### **Obs.:** Caso algum Icon ou link, como os que estão logo abaixo, esteja quebrado, basta pressionar F5 para atualizar a página, de modo a ter uma melhor experiência do usuário. Grato pela compreensão e seja bem-vindo ao meu mundo.
 #
 #### 🎯 Menu:
 
