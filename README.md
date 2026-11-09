@@ -195,7 +195,7 @@ No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05
 #
 # Projetos:
 #
-## Docker com Linux Para QA (Projetos):
+## Docker com Linux para QA (Projetos):
 ![Docker-Linux](https://api.devicons.dev.br/icon?icons=Linux%2CDocker%2CVIM%2CVSCode&size=48&theme=dark&perline=30)
 
 <details>
