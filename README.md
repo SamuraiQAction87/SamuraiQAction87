@@ -523,7 +523,7 @@ Veremos os seguintes temas:
 #
 #
 ## Python, Postman && Extração de Dados em API:
-![JavaScript16](https://api.devicons.dev.br/icon?icons=Python%2CPostman&size=48&theme=light&perline=30)
+![JavaScript16](https://api.devicons.dev.br/icon?icons=Python%2CPostman%2CGCP&size=48&theme=light&perline=30)
 
 <details>
 <summary>               
