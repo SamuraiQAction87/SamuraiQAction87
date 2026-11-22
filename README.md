@@ -24,8 +24,13 @@
 ### 🛠 Principais Ferramentas com as quais Trabalhei 🛠:
 [![Skills](https://api.devicons.dev.br/icon?icons=Linux%2CUbuntu%2CDocker%2CGit%2CGithub%2CGithubActions%2CVSCode%2CEclipse%2CIdea%2CMaven%2CSelenium%2CJava%2CPython%2CJavaScript%2CHTML%2CCSS%2CPostgreSQL%2CMySQL%2CPostman%2CCypress%2CGherkin%2CGCP%2CAWS&size=48&theme=light&perline=30)](https://devicons.dev.br/)
 
-#
+  <!-- REST-Assured (Shield badge) -->
+  <img src="https://img.shields.io/badge/REST--Assured-green?style=for-the-badge&logo=testinglibrary&logoColor=white" height="40" alt="REST-Assured" style="margin-right: 4px; vertical-align: top; border-radius: 4px;" />
 
+  <!-- JUnit 5 (Shield badge) -->
+  <img src="https://img.shields.io/badge/JUnit%205-25A194?style=for-the-badge&logo=junit5&logoColor=white" height="40" alt="JUnit 5" style="margin-right: 4px; vertical-align: top; border-radius: 4px;" />
+
+#
 ## 🚀 QA Engineer em Construção | Foco em Shift Left & Automação
 Sou um apaixonado por tecnologia, **autodidata** e profissional QA Engineer em construção. **Desde o começo de 2025 em formação intensiva para me tornar um QA** (Quality Assurance) Engineer com a filosofia **Shift Left**. 
 
