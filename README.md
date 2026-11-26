@@ -74,7 +74,7 @@ Minha transição para QA é embasada em experiência técnica, soft skills e au
 
  - **Estágio Técnico em Redes (Nov/2024 a Mar/2025):** Atuei no monitoramento de ativos de rede e hosts utilizando Zabbix e Grafana (alertas via WhatsApp). Utilizei Linux para servidores e **Zendesk para gestão de tickets** de ponta a ponta. **Fui o principal ponto de contato entre o time técnico, nossos clientes e seus prestadores de serviços**, garantindo o registro, acompanhamento de SLA  dos tickets com terceiros e feedback ao cliente.
 
- - **Experiência com Clientes (Telemarketing, Recepção e Inspetor de Segurança em Shopping):** Quase 7 anos de experiência com atendimento ao cliente, desenvolvendo **comunicação construtiva**, cordial, **escuta ativa**, **atenção aos detalhes** e **pensamento crítico e investigativo**, sempre focado em entregar valor e qualidade ao cliente. Essa bagagem é crucial para a colaboração em times de desenvolvimento e para a compreensão profunda das necessidades do produto.
+ - **Experiência com Clientes (Telemarketing, Recepção e Inspetor de Segurança em Shopping):** Quase 7 anos de experiência com atendimento ao cliente, desenvolvendo **comunicação construtiva**, cordial, **escuta ativa**, **atenção aos detalhes** e **pensamento crítico e investigativo**, sempre focado em entregar valor e qualidade ao cliente. Essa bagagem é crucial para a colaboração em times de desenvolvimento e para a compreensão profunda das necessidades do cliente projetadas nos requisitos do produto.
 
 Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills, minhas habilidades de comunicação com o mundo do código**. Estou pronto para aplicar este conhecimento e evoluir na prática.
 #
