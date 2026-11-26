@@ -83,7 +83,7 @@ Encontrei na carreira de QA o lugar ideal para **unir Soft Skills e Hard Skills,
 #
 #
 # 📚 Documentação do meu aprendizado 🧑‍💻:
-No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05/2024**, mantenho um acervo que já conta com **mais de 130 artigos técnicos**, documentando o meu aprendizado, aprofundando em todos os temas listados em minhas habilidades. É uma fonte rica, **baseada em cursos e estudos autodidata, que comprova minha jornada e conhecimentos em QA e TI**. Estes são os principais **artigos e projetos**, **divididos por temas**:
+No meu perfil do "[**Medium**](https://medium.com/@atom.freedom)", **desde 09/05/2024**, mantenho um acervo que já conta com **mais de 130 artigos técnicos**, documentando o meu aprendizado, desbravando todos os temas listados em minhas habilidades. É uma fonte rica, **baseada em cursos e estudos autodidata, que comprova minha jornada e conhecimentos em QA e TI**. Estes são os principais **artigos e projetos**, **divididos por temas**:
 #
 ## 🐞🔍 Artigos sobre QA 🐞🔍:
 
